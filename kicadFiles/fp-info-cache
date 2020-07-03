@@ -81277,14 +81277,14 @@ Through{space}hole{space}pin{space}header{space}THT{space}1x14{space}2.54mm{spac
 8
 8
 acheron_Connectors
-PinHeader_1x09_P2.54mm_Vertical
+PinHeader_1x9_P2.54mm_Vertical
 Through{space}hole{space}straight{space}pin{space}header,{space}1x14,{space}2.54mm{space}pitch,{space}single{space}row
 Through{space}hole{space}pin{space}header{space}THT{space}1x14{space}2.54mm{space}single{space}row
 0
 9
 9
 acheron_Connectors
-PinHeader_1x9_P2.54mm_Vertical
+PinHeader_1x09_P2.54mm_Vertical
 Through{space}hole{space}straight{space}pin{space}header,{space}1x14,{space}2.54mm{space}pitch,{space}single{space}row
 Through{space}hole{space}pin{space}header{space}THT{space}1x14{space}2.54mm{space}single{space}row
 0
