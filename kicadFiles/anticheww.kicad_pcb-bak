@@ -11,8 +11,8 @@
   (paper "A3")
   (title_block
     (title "Anticheww")
-    (date "2020-01-09")
-    (rev "0.2")
+    (date "2020-07-03")
+    (rev "v2.0.1")
     (comment 1 "Designed by Gondolindrim")
     (comment 2 "In partnership with Chewwy")
   )

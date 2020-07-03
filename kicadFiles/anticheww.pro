@@ -1,4 +1,4 @@
-update=Fri 03 Jul 2020 04:44:48 PM -03
+update=Fri 03 Jul 2020 04:46:29 PM -03
 version=1
 last_client=kicad
 [general]
@@ -38,6 +38,8 @@ ERC_CheckBusToNetConflicts=1
 version=1
 [SchematicFrame]
 version=1
+[sheetnames]
+1=4d8e8b68-d0b4-4918-9b06-9835b2f831c8:
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -361,5 +363,3 @@ uViaDrill=0.1016
 dPairWidth=0.254
 dPairGap=0.25
 dPairViaGap=0.25
-[sheetnames]
-1=4d8e8b68-d0b4-4918-9b06-9835b2f831c8:
