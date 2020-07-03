@@ -4,11 +4,11 @@ EELAYER END
 $Descr A1 33110 23386
 encoding utf-8
 Sheet 1 1
-Title "TsukiPCB"
+Title "Anticheww"
 Date "2020-01-04"
-Rev "pre-Alpha"
+Rev "0.2"
 Comp "Designed by Gondolindrim"
-Comment1 ""
+Comment1 "In partnership with Chewwy"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -4811,7 +4811,7 @@ U 1 1 5E670A2B
 P 29500 4575
 F 0 "SW46" H 29400 4600 30  0000 C CNN
 F 1 "ENTER_225" H 29600 4600 30  0000 C CNN
-F 2 "acheron_MX_SolderMask:MX225" H 29500 4575 50  0001 C CNN
+F 2 "acheron_MX_SolderMask:MX225R" H 29500 4575 50  0001 C CNN
 F 3 "" H 29500 4575 50  0001 C CNN
 	1    29500 4575
 	1    0    0    -1  
