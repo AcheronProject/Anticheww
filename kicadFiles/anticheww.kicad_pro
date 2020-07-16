@@ -380,7 +380,38 @@
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "default_wire_thickness": 6.0,
-      "field_names": [],
+      "field_names": [
+        {
+          "name": "Rating",
+          "url": false,
+          "visible": false
+        },
+        {
+          "name": "LCSC Part Number",
+          "url": false,
+          "visible": false
+        },
+        {
+          "name": "Manufacturer",
+          "url": false,
+          "visible": false
+        },
+        {
+          "name": "Manufacturer Part Number",
+          "url": false,
+          "visible": false
+        },
+        {
+          "name": "Package",
+          "url": false,
+          "visible": false
+        },
+        {
+          "name": "Description",
+          "url": false,
+          "visible": false
+        }
+      ],
       "pin_symbol_size": 25.0,
       "text_offset_ratio": 0.3
     },
@@ -398,7 +429,7 @@
   },
   "sheets": [
     [
-      "d2559cd8-6176-4457-86c1-8171a63dc8c3",
+      "32b982a7-2972-4790-8bbf-b3db0af86fea",
       ""
     ]
   ],
