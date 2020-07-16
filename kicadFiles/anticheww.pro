@@ -1,4 +1,4 @@
-update=Fri 03 Jul 2020 06:08:42 PM -03
+update=Sat 04 Jul 2020 07:32:41 PM -03
 version=1
 last_client=kicad
 [general]
@@ -34,12 +34,12 @@ ERC_CheckBusDriverConflicts=1
 ERC_CheckBusEntryConflicts=1
 ERC_CheckBusToBusConflicts=1
 ERC_CheckBusToNetConflicts=1
+[LibeditFrame]
+version=1
 [ModEditFrame]
 version=1
 [SchematicFrame]
 version=1
-[sheetnames]
-1=4d8e8b68-d0b4-4918-9b06-9835b2f831c8:
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -364,3 +364,16 @@ uViaDrill=0.1016
 dPairWidth=0.254
 dPairGap=0.25
 dPairViaGap=0.25
+[pcbnew/Netclasses/2]
+Name=ESD Paths
+Clearance=0.508
+TrackWidth=0.508
+ViaDiameter=0.8
+ViaDrill=0.4
+uViaDiameter=0.3
+uViaDrill=0.1016
+dPairWidth=0.3048
+dPairGap=0.1524
+dPairViaGap=0.25
+[sheetnames]
+1=ae4af511-6da5-439b-94f7-633dd0403506:
