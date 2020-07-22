@@ -25,9 +25,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.048,
-          "height": 3.048,
-          "width": 3.048
+          "drill": 5.0,
+          "height": 4.0,
+          "width": 6.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -380,38 +380,7 @@
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "default_wire_thickness": 6.0,
-      "field_names": [
-        {
-          "name": "Rating",
-          "url": false,
-          "visible": false
-        },
-        {
-          "name": "LCSC Part Number",
-          "url": false,
-          "visible": false
-        },
-        {
-          "name": "Manufacturer",
-          "url": false,
-          "visible": false
-        },
-        {
-          "name": "Manufacturer Part Number",
-          "url": false,
-          "visible": false
-        },
-        {
-          "name": "Package",
-          "url": false,
-          "visible": false
-        },
-        {
-          "name": "Description",
-          "url": false,
-          "visible": false
-        }
-      ],
+      "field_names": [],
       "pin_symbol_size": 25.0,
       "text_offset_ratio": 0.3
     },
@@ -429,7 +398,7 @@
   },
   "sheets": [
     [
-      "32b982a7-2972-4790-8bbf-b3db0af86fea",
+      "5301a060-098b-42bc-8cd8-55227ddeadd8",
       ""
     ]
   ],

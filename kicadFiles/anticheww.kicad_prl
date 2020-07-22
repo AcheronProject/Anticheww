@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 49,
+    "active_layer": 37,
     "active_layer_preset": "",
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -49,7 +49,7 @@
       30,
       31
     ],
-    "visible_layers": "3df30_80000001"
+    "visible_layers": "1dd30_80000001"
   },
   "meta": {
     "filename": "anticheww.kicad_prl",
