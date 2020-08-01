@@ -37,7 +37,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.15239999999999998
         }
       },
       "diff_pair_dimensions": [
@@ -71,6 +71,7 @@
         "npth_inside_courtyard": "ignore",
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
+        "shorting_items": "error",
         "track_dangling": "warning",
         "track_width": "error",
         "tracks_crossing": "error",
@@ -317,35 +318,43 @@
   "net_settings": {
     "classes": [
       {
+        "bus_width": 6.0,
         "clearance": 0.1524,
         "diff_pair_gap": 0.1524,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.3048,
+        "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1016,
         "name": "Default",
         "track_width": 0.1524,
         "via_diameter": 0.8,
-        "via_drill": 0.4
+        "via_drill": 0.4,
+        "wire_width": 6.0
       },
       {
+        "bus_width": 6.0,
         "clearance": 0.1524,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.254,
+        "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1016,
         "name": "DiffPair",
         "nets": [],
         "track_width": 0.254,
         "via_diameter": 0.8,
-        "via_drill": 0.4
+        "via_drill": 0.4,
+        "wire_width": 6.0
       },
       {
+        "bus_width": 6.0,
         "clearance": 0.508,
         "diff_pair_gap": 0.1524,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.3048,
+        "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1016,
         "name": "ESD Paths",
@@ -354,7 +363,8 @@
         ],
         "track_width": 0.508,
         "via_diameter": 0.8,
-        "via_drill": 0.4
+        "via_drill": 0.4,
+        "wire_width": 6.0
       }
     ],
     "meta": {
@@ -398,7 +408,7 @@
   },
   "sheets": [
     [
-      "c8e9c03b-03f5-407e-9c35-d5ec8175edae",
+      "62bd3295-40f3-4eed-81c8-839f41db3704",
       ""
     ]
   ],
