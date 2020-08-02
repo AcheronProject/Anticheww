@@ -1,9 +1,9 @@
 {
   "board": {
-    "active_layer": 49,
+    "active_layer": 37,
     "active_layer_preset": "",
     "hidden_nets": [],
-    "high_contrast_mode": 0,
+    "high_contrast_mode": 1,
     "selection_filter": {
       "dimensions": true,
       "footprints": true,
