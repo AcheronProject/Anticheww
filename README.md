@@ -18,6 +18,8 @@ Anticheww was conceived as an experiment on how many layouts one can support in 
 
 ## Compatible layouts
 
+Click [here](http://raw.githubusercontent.com/AcheronProject/Anticheww/master/graphics/KLE/anticheww_kle.json) for a JSON file that can be used in [Keyboard Layout Editor](http://keyboard-layout-editor.com).
+
 ![Anticheww Layouts](https://raw.githubusercontent.com/AcheronProject/Anticheww/master/graphics/KLE/anticheww_kle.svg "Anticheww Layouts")
 
 ## Contributors
