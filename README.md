@@ -1,21 +1,24 @@
 # Acheron 65-SM-S-STM32-MX-TH-WI (Codename "Anticheww")
 
-![alt text](https://raw.githubusercontent.com/Gondolindrim/acheronLibrary/master/graphics/acheronReadme.png "Acheron Logo")
+![Acheron Logo](https://raw.githubusercontent.com/Gondolindrim/acheronLibrary/master/graphics/acheronReadme.png "Acheron Logo")
 
-See [this page](https://gondolindrim.github.io/AcheronDocs/anticheww/intro.html) for the Tsuki documentation.
+See [this page](https://gondolindrim.github.io/AcheronDocs/anticheww/intro.html) for the Anticheww documentation.
 
 ## Introduction
 
-Anticheww is a universal 65% PCB, compatible with TADA68 and KBD67 (rev. 1 was tested and working, not tested with rev. 2 yet) supporting per-key lighting using single-color LEDs, RGB underglow using WS2812C RGB LEDs, rotary encoders and a multitude of layouts:
+Anticheww was conceived as an experiment on how many layouts one can support in a single PCB. The current (v2.0.8) version is a universal 65% PCB, compatible with TADA68 and KBD67 (rev. 1 was tested and working, not tested with rev. 2 yet) supporting per-key lighting using single-color LEDs, RGB underglow using WS2812C RGB LEDs, rotary encoders and a multitude of layouts:
 
-- Default ANSI bottom row;
-- Tsangan bottom row (7.0u spacebar, also known as "simmetrical HHKB")
+- Default ANSI bottom row, with and without the 0.5 units blocker;
+- 7.0 units spaebar bottom row, with and without 0.5 units blocker;
+- 225-125-275 and 275-125-225 split spacebar options;
 - Split backspace;
 - Split left and right shifts;
-- ISO and UK-ISO;
+- ISO enter;
 - ABNT and ABNT2 layouts.
 
-Anticheww is an adaptation of the [Tsuki](https://github.com/Gondolindrim/Tsuki).
+## Compatible layouts
+
+![Anticheww Layouts](https://raw.githubusercontent.com/AcheronProject/Anticheww/master/graphics/KLE/anticheww_kle.svg "Anticheww Layouts")
 
 ## Contributors
 
@@ -23,4 +26,4 @@ Anticheww is an adaptation of the [Tsuki](https://github.com/Gondolindrim/Tsuki)
    
 ## Copyright notice
 
-This project is released under the Acheron Open-Hardware License V1.2. For the license, please refer to the LICENCE.md file.
+This project is released under the Acheron Open-Hardware License V1.3. For the license, please refer to the LICENCE.md file.
