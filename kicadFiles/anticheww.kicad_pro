@@ -378,7 +378,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../v2.0.8/anticheww.step",
       "vmrl": ""
     },
     "page_layout_descr_file": ""
@@ -401,14 +401,14 @@
     },
     "net_format_name": "Pcbnew",
     "page_layout_descr_file": "",
-    "plot_directory": "../preAlpha/",
+    "plot_directory": "../v2.0.8",
     "spice_adjust_passive_values": false,
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
   "sheets": [
     [
-      "252e3b79-4007-4f08-8f90-7c8e413e8d92",
+      "e2ec390d-8f97-4a39-a8e5-71bd2db249b9",
       ""
     ]
   ],
