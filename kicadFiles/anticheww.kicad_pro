@@ -128,6 +128,7 @@
           "drill": 0.508
         }
       ],
+      "zones_allow_external_fillets": false,
       "zones_use_no_outline": false
     },
     "layer_presets": []
@@ -304,7 +305,8 @@
       "pin_not_driven": "error",
       "pin_to_pin": "error",
       "similar_labels": "error",
-      "unresolved_variable": "error"
+      "unresolved_variable": "error",
+      "wire_dangling": "error"
     }
   },
   "libraries": {
@@ -358,9 +360,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1016,
         "name": "ESD Paths",
-        "nets": [
-          "CASE"
-        ],
+        "nets": [],
         "track_width": 0.508,
         "via_diameter": 0.8,
         "via_drill": 0.4,
@@ -403,12 +403,13 @@
     "page_layout_descr_file": "",
     "plot_directory": "../v2.0.8",
     "spice_adjust_passive_values": false,
+    "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
   "sheets": [
     [
-      "e2ec390d-8f97-4a39-a8e5-71bd2db249b9",
+      "7180fab1-307f-4c07-ba6e-489845b20f28",
       ""
     ]
   ],
