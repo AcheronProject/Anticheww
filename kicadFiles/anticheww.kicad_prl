@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 42,
     "active_layer_preset": "",
     "hidden_nets": [],
     "high_contrast_mode": 1,
@@ -11,6 +11,7 @@
       "vias": 1.0,
       "zones": 1.0
     },
+    "ratsnest_display_mode": 0,
     "selection_filter": {
       "dimensions": true,
       "footprints": true,
@@ -35,7 +36,6 @@
       8,
       9,
       10,
-      11,
       12,
       13,
       14,
